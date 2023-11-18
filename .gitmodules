@@ -16,3 +16,6 @@
 [submodule "nuxt-discord"]
 	path = nuxt-discord
 	url = https://github.com/Frontend-learning-projects/nuxt-discord.git
+[submodule "web-store-frontend"]
+	path = web-store-frontend
+	url = https://github.com/Frontend-learning-projects/web-store-frontend.git
