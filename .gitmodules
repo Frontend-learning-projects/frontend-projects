@@ -1,18 +1,18 @@
-[submodule "qwik-discord"]
-	path = qwik-discord
-	url = https://github.com/Qwik-learning-projects/qwik-discord.git
-[submodule "qwik-tiktok"]
-	path = qwik-tiktok
-	url = https://github.com/Qwik-learning-projects/qwik-tiktok.git
 [submodule "qwik-youtube"]
 	path = qwik-youtube
 	url = https://github.com/Qwik-learning-projects/qwik-youtube.git
-[submodule "qwik-instagram"]
-	path = qwik-instagram
-	url = https://github.com/Qwik-learning-projects/qwik-instagram.git
-[submodule "qwik-twitter"]
-	path = qwik-twitter
-	url = https://github.com/Qwik-learning-projects/qwik-twitter.git
 [submodule "qwik-spotify"]
 	path = qwik-spotify
 	url = https://github.com/Qwik-learning-projects/qwik-spotify.git
+[submodule "next-tiktok"]
+	path = next-tiktok
+	url = https://github.com/Frontend-learning-projects/next-tiktok.git
+[submodule "astro-twitter"]
+	path = astro-twitter
+	url = https://github.com/Frontend-learning-projects/astro-twitter.git
+[submodule "angular-instagram"]
+	path = angular-instagram
+	url = https://github.com/Frontend-learning-projects/angular-instagram.git
+[submodule "nuxt-discord"]
+	path = nuxt-discord
+	url = https://github.com/Frontend-learning-projects/nuxt-discord.git
